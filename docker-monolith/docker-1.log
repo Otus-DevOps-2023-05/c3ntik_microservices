@@ -1,0 +1,10 @@
+REPOSITORY               TAG       IMAGE ID       CREATED              SIZE
+c3ntik/ubuntu-tmp-file   latest    c61871744159   About a minute ago   187MB
+nginx                    latest    c20060033e06   3 days ago           187MB
+ubuntu                   18.04     f9a80a55f492   5 months ago         63.2MB
+hello-world              latest    9c7a54a9a43c   6 months ago         13.3kB
+alpine                   latest    c059bfaa849c   23 months ago        5.59MB
+ubuntu                   16.04     b6f507652425   2 years ago          135MB
+# Docker image - не изменяемый, переиспользуемый и версионируемый шаблон со всеми зависимостями для запуска приложения, собран из слоев.
+# Docker container - изолированная, дополняемая и изменяемая инстанция docker image. Может быть запущен, остановлен и удален.
+
